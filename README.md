@@ -1,7 +1,7 @@
 <H3>NAME:Yogabharathi S</H3>
 <H3>REGISTER NO:212222230179</H3>
 <H3>EX.NO:7</H3>
-<H3>DATE:21/10/2024</H3>
+<H3>DATE:13/09/2024</H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
 
 ## AIM:
